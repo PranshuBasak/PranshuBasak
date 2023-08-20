@@ -1,7 +1,8 @@
+![MasterHead](https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif)
 <h1 align="center">Hi 👋, I'm Pranshu Basak</h1>
 <h3 align="center">A passionate Full-Stack MERN Developer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAC/coding.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshubasak&label=Profile%20views&color=000000&style=plastic" alt="pranshubasak" /> </p>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Welcome to Pranshu Basak Github Page"  height="200px" width="200px" style="padding-right:20;"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshubasak&label=Profile%20views&color=green&style=plastic" alt="pranshubasak" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pranshu_basak" target="blank"><img src="https://img.shields.io/twitter/follow/pranshu_basak?logo=twitter&style=for-the-badge" alt="pranshu_basak" /></a> </p>
 
