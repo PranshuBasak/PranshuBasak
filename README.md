@@ -39,3 +39,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranshubasak&show_icons=true&theme=dark&hide_border=true&locale=en" alt="pranshubasak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranshubasak&theme=dark" alt="pranshubasak" /></p>
+
+
+[![An image of @pranshubasak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranshubasak)](https://holopin.io/@pranshubasak)
