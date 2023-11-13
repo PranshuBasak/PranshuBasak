@@ -28,6 +28,7 @@
 <a href="https://instagram.com/pranshubasak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranshubasak" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pranshubasak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranshubasak" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pranshubasak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pranshubasak" height="30" width="40" /></a>
+<a href="https://pranshubasak.co/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pranshubasak" height="30" width="40" /></a>
 </p>
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt=""  width="1000" />
 <h3 align="left"><img align="center" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Skills"  height="50px" width="50px"/> Languages and Tools:</h3>
