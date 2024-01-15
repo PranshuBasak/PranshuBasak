@@ -17,7 +17,7 @@
 
 - 📫 How to reach me <img align="center" src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png"   height="20px" width="20px"/> **pranshubasak@gmail.com** 
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1ObxUX4Rafh9GENKmrnXUkNg_UK6cWGOA/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1iROPezNdbp6DelIvsoaKL66S6V9i_3T1/view?usp=drive_link)
 
 <h3 align="left"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Social Handel"  height="50px" width="50px"/>  Connect with me:</h3>
 <p align="left">
