@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
+[![An image of @pranshubasak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranshubasak)](https://holopin.io/@pranshubasak)
 <h1 align="center">Hi <img align="center" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Welcome to Pranshu Basak Github Page"  width="50px"/>, I'm Pranshu Basak</h1>
 <h3 align="center">A passionate Full-Stack MERN Developer from India</h3>
 
@@ -41,5 +41,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranshubasak&theme=dark" alt="pranshubasak" /></p>
 
+![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 
-[![An image of @pranshubasak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranshubasak)](https://holopin.io/@pranshubasak)
