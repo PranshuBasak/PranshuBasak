@@ -48,4 +48,4 @@
   [Check out my progress!](https://www.codedex.io/@pranshubasak73431/30-nites-of-code)  
   ![@pranshubasak73431 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=pranshubasak73431)
 ## #Open Source Raniking
-[![An Open Source Ranking for Pranshu Basak](https://ossrank.com/widget/893662)](https://ossrank.com/widget/893662)
+[![An Open Source Ranking for Pranshu Basak](https://ossrank.com/widget/893662)](https://ossrank.com/c/893662-pranshu-basak)
